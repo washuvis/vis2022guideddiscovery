@@ -1,0 +1,132 @@
+id,active_search_condition,session_started,session_ended,session_duration_minutes,q1,q2,q3,q4,q5,q6,q7,q8,comments,technical_issues,age,sex,education
+ottNn7b8Wt1EL-I0bfFbOA,control,2020-09-10 13:45:18,2020-09-10 14:03:13,17.916666666666668,4.0,5.0,5.0,2.0,,,,,,False,33,male,highschool
+Tn8m4yLs6E0GDO6sggwYTw,control,2020-09-10 13:45:39,2020-09-10 13:56:30,10.85,4.0,5.0,4.0,2.0,,,,,,False,23,male,bachelors
+SW8GwZ1tt4Z5DiK3J4rw2g,control,2020-09-10 13:45:48,2020-09-10 13:56:51,11.05,4.0,4.0,3.0,2.0,,,,,,False,45,male,associate
+POzOiTeXMSdTEbmSmI4wpg,control,2020-09-10 13:47:15,2020-09-10 13:57:50,10.583333333333334,3.0,4.0,3.0,2.0,,,,,,False,34,male,highschool
+n-Oq8YP_DhsByGZyxuGroQ,control,2020-09-10 13:50:36,2020-09-10 14:01:51,11.25,4.0,5.0,4.0,2.0,,,,,NICE TASK,False,40,female,masters
+FDTHXrnlGNeILsLH5AZ4yw,greedy,2020-09-10 13:53:56,2020-09-10 14:05:25,11.483333333333333,4.0,4.0,4.0,2.0,2.0,2.0,4.0,5.0,Everything was fine.,False,54,male,associate
+UNaSIzwWzwgmGLZsEyvgsQ,control,2020-09-10 13:54:24,2020-09-10 13:59:34,5.166666666666667,3.0,5.0,5.0,2.0,,,,,,False,29,female,highschool
+kj0RX7BOAfL51pdO4hRNWw,greedy,2020-09-10 13:54:52,2020-09-10 14:09:17,14.416666666666666,5.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,True,29,male,bachelors
+0R7Oc16T5OzW-_YNs9rkkg,control,2020-09-10 14:06:52,2020-09-10 14:18:16,11.4,5.0,4.0,4.0,2.0,,,,,This was really fun and interesting. ,False,47,female,highschool
+u0glJ2wPe_IXmfOYFd_w0w,greedy,2020-09-10 14:14:12,2020-09-10 14:25:28,11.266666666666667,2.0,3.0,4.0,2.0,3.0,1.0,2.0,5.0,,False,22,female,highschool
+3yqIkE86DBDCTnJi3aFcgg,greedy,2020-09-10 14:38:42,2020-09-10 14:41:12,2.5,5.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,25,male,bachelors
+k0XtDgVMlnH0N1ivlez7hw,control,2020-09-10 15:03:00,2020-09-10 15:13:06,10.1,4.0,4.0,4.0,2.0,,,,,,False,29,female,bachelors
+0kLgVuwpx7Bo-dfk-aUDgQ,greedy,2020-09-10 15:42:41,2020-09-10 15:58:25,15.733333333333333,3.0,4.0,3.0,2.0,4.0,4.0,3.0,5.0,,False,60,female,associate
+bifsEtKMXIJ88523WNgtnw,control,2020-09-10 15:42:42,2020-09-10 15:53:10,10.466666666666667,1.0,3.0,5.0,2.0,,,,,,False,36,male,bachelors
+q-1VAayPIoWBjTCQi_DoVQ,control,2020-09-10 15:42:44,2020-09-10 15:53:18,10.566666666666666,5.0,5.0,5.0,2.0,,,,,,False,41,male,highschool
+dHTodoyMJCwZZ0rlBoDBgg,greedy,2020-09-10 15:43:00,2020-09-10 15:53:16,10.266666666666667,4.0,4.0,3.0,2.0,2.0,4.0,4.0,5.0,,False,27,male,bachelors
+0FomFSRLtGmolWmt6v-BzQ,control,2020-09-10 15:43:02,2020-09-10 15:56:11,13.15,2.0,2.0,2.0,2.0,,,,,,False,35,female,bachelors
+s_Iy02wt_jLcFG3_vAw1ig,control,2020-09-10 15:43:12,2020-09-10 15:54:28,11.266666666666667,4.0,4.0,3.0,2.0,,,,,There was a little bit of lag in my selections and it would have been easier if I was able to zoom some more within the system but overall I thought it was easy to use. ,False,35,male,bachelors
+Rr-Am9XWLG_j9RzUhfpI6Q,control,2020-09-10 15:43:14,2020-09-10 15:53:57,10.716666666666667,4.0,5.0,5.0,2.0,,,,,This was well-designed. Thank you for allowing me to participate.,False,26,male,highschool
+diIEYYtFfdAwwLsRtdW0wg,control,2020-09-10 15:43:16,2020-09-10 15:55:36,12.333333333333334,4.0,4.0,4.0,2.0,,,,,,False,25,female,bachelors
+SG09OWw6EdZOVvZlTjM-FQ,control,2020-09-10 15:43:16,2020-09-10 15:54:01,10.75,3.0,4.0,4.0,2.0,,,,,,False,30,male,bachelors
+K3BMWHJwzKB8gWq58g7XRA,greedy,2020-09-10 15:43:25,2020-09-10 15:54:02,10.616666666666667,4.0,4.0,4.0,2.0,3.0,2.0,4.0,5.0,,False,32,male,bachelors
+sHdVgbUcMwvCWwxfJxVrnw,greedy,2020-09-10 15:43:26,2020-09-10 15:54:04,10.633333333333333,3.0,4.0,3.0,2.0,1.0,2.0,4.0,5.0,,False,49,male,associate
+oKdTjzjtwGFS0iiz-MpQrA,greedy,2020-09-10 15:43:29,2020-09-10 15:54:58,11.483333333333333,4.0,4.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,52,male,masters
+0aJkmv1hnmWrVGAwLE6RIg,control,2020-09-10 15:43:36,2020-09-10 15:54:56,11.333333333333334,4.0,3.0,4.0,2.0,,,,,,False,40,male,bachelors
+MRpphVjkDCll9QbNTPnoRQ,greedy,2020-09-10 15:43:45,2020-09-10 15:55:58,12.216666666666667,2.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,,False,33,male,associate
+wMWdKtkmZiTUIW_s_XSiKw,control,2020-09-10 15:43:47,2020-09-10 15:55:04,11.283333333333333,2.0,3.0,3.0,2.0,,,,,none,False,59,male,bachelors
+8-oRuOqv44CkXM1rq3WgDw,greedy,2020-09-10 15:43:54,2020-09-10 15:57:19,13.416666666666666,2.0,3.0,3.0,2.0,3.0,2.0,3.0,5.0,,False,23,male,associate
+3RJkTqsdzektLw8VmK3d1A,control,2020-09-10 15:43:56,2020-09-10 15:55:33,11.616666666666667,3.0,4.0,4.0,2.0,,,,,,False,45,female,bachelors
+BP3u6-yQVD6JFzi3tKLamA,greedy,2020-09-10 15:43:59,2020-09-10 15:57:08,13.15,4.0,5.0,5.0,2.0,3.0,3.0,3.0,5.0,,False,45,female,masters
+K4oiwhn0PHkER7IOBzp3tA,control,2020-09-10 15:44:09,2020-09-10 15:58:02,13.883333333333333,4.0,5.0,5.0,2.0,,,,,"thanks, i hope I did well on this",False,57,female,highschool
+9cgrSAf3_zRo509cVXexBw,control,2020-09-10 15:44:09,2020-09-10 15:55:19,11.166666666666666,4.0,5.0,5.0,2.0,,,,,,False,55,female,associate
+705Te_LAeladSVRFI5Sp9w,control,2020-09-10 15:44:20,2020-09-10 15:56:23,12.05,4.0,4.0,4.0,2.0,,,,,"It has been interesting, the concept is very useful, and the interface easy to manage!",False,41,male,highschool
+dBcHhu9iTi_x-gDCawjcyA,control,2020-09-10 15:44:49,2020-09-10 15:59:17,14.466666666666667,3.0,4.0,3.0,2.0,,,,,There were a lot of data points.  I checked around and it looked like people were sick in a lot of places.,False,69,male,masters
+hjZTImgTbnU-JHo2t0hNeg,greedy,2020-09-10 15:44:50,2020-09-10 15:56:44,11.9,4.0,5.0,5.0,2.0,2.0,1.0,4.0,5.0,,False,39,female,masters
+_zMmoKjDxTLi3l1X3RrZAw,control,2020-09-10 15:45:28,2020-09-10 15:47:25,1.95,4.0,3.0,4.0,4.0,,,,,good,True,36,male,masters
+MfpBNUsm4pD3Kg5wjiKP_Q,greedy,2020-09-10 15:46:20,2020-09-10 15:59:23,13.05,5.0,5.0,4.0,2.0,1.0,1.0,5.0,5.0,I really enjoyed using this interface. I found it to be very intuitive. I would definitely use this system again to analyze visual data.,False,33,male,highschool
+NRyzJB-AeSx5AOWhloLZ8g,control,2020-09-10 15:46:29,2020-09-10 16:14:39,28.166666666666668,3.0,4.0,4.0,2.0,,,,,No additional comments.,False,32,male,masters
+yvXWJOqkIJex-23s_sTROg,greedy,2020-09-10 15:46:32,2020-09-10 15:48:40,2.1333333333333333,5.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,25,male,bachelors
+5Jl5_kX_Tg6LjTwri7lSUA,greedy,2020-09-10 15:46:47,2020-09-10 15:58:58,12.183333333333334,3.0,2.0,3.0,2.0,3.0,1.0,4.0,5.0,,False,34,male,bachelors
+anfa5Zq4bjh-81ZE-RYzzA,control,2020-09-10 15:46:50,2020-09-10 16:03:23,16.55,3.0,4.0,4.0,2.0,,,,,,False,46,female,bachelors
+Iz1RVMn8Gj1oed8-QZMqXA,greedy,2020-09-10 15:46:55,2020-09-10 15:57:52,10.95,3.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,40,male,masters
+N0VtS5g31siXqoUhQnAAPQ,control,2020-09-10 15:47:19,2020-09-10 15:58:18,10.983333333333333,2.0,3.0,3.0,2.0,,,,,,False,26,female,bachelors
+-qgyUblFjzGauFx_Qt1xxQ,control,2020-09-10 15:47:42,2020-09-10 15:59:35,11.883333333333333,4.0,5.0,5.0,2.0,,,,,The task is very clear and vivid.,False,35,male,bachelors
+rQCaKZQ2F25eBST_bWyKFA,control,2020-09-10 15:48:02,2020-09-10 15:52:23,4.35,2.0,2.0,1.0,2.0,,,,,What am I supposed to be doing?,False,37,male,bachelors
+t3dx1A8gxcC7T0GkYvk4rQ,control,2020-09-10 15:48:45,2020-09-10 16:00:08,11.383333333333333,3.0,4.0,4.0,2.0,,,,,The map is a bit sluggish,False,32,male,bachelors
+pM3lshrmqr3py5jVQkCGog,control,2020-09-10 15:49:01,2020-09-10 15:59:33,10.533333333333333,3.0,5.0,4.0,2.0,,,,,,False,37,male,bachelors
+8uws47dV4-x6_2L7dWretA,greedy,2020-09-10 15:49:25,2020-09-10 15:59:56,10.516666666666667,2.0,2.0,4.0,2.0,3.0,2.0,4.0,5.0,,False,31,male,bachelors
+7FRoXRjqfsGRrIJD87-H1w,greedy,2020-09-10 15:49:28,2020-09-10 15:55:38,6.166666666666667,2.0,4.0,2.0,2.0,1.0,1.0,4.0,5.0,,False,42,male,bachelors
+ieozcwSTOaL5xar-tDFIMw,greedy,2020-09-10 15:50:14,2020-09-10 16:00:37,10.383333333333333,1.0,1.0,3.0,2.0,4.0,3.0,1.0,5.0,,False,40,female,highschool
+R_ubSTGYnz-reM6XMYvuGA,greedy,2020-09-10 15:50:30,2020-09-10 16:01:11,10.683333333333334,1.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,"it took a long time to load, a significant amount of the timer.",False,32,female,bachelors
+RLIDb-SlMuUNc5o1Ex2LGA,greedy,2020-09-10 15:50:41,2020-09-10 16:17:39,26.966666666666665,4.0,5.0,4.0,2.0,3.0,3.0,4.0,5.0,,False,30,male,bachelors
+PtJP0V71F8Ud9kyU_molEw,control,2020-09-10 15:50:47,2020-09-10 16:02:21,11.566666666666666,3.0,4.0,5.0,2.0,,,,,,False,29,female,bachelors
+fgTmANyUtAen0exuGrzVzQ,control,2020-09-10 15:51:53,2020-09-10 16:05:22,13.483333333333333,2.0,4.0,4.0,2.0,,,,,"I am not sure if all of my selections were bookmarked because I could not find some of them in the list of bookmarks. However, it appeared that all of the selections I chose to bookmark turned green on the map. ",False,62,female,bachelors
+mwbxr6aVEv5oB14fas9y7Q,greedy,2020-09-10 15:52:09,2020-09-10 16:03:55,11.766666666666667,2.0,3.0,2.0,2.0,2.0,2.0,4.0,5.0,,False,34,male,bachelors
+nHFRA1QAG9pg93oF4T1L2Q,control,2020-09-10 15:53:08,2020-09-10 16:04:20,11.2,1.0,2.0,3.0,2.0,,,,,,False,30,female,bachelors
+Q00_bx5Pq4Yn1_3XcqEp2g,control,2020-09-10 15:53:15,2020-09-10 16:05:40,12.416666666666666,3.0,3.0,4.0,2.0,,,,,,False,36,male,masters
+Y3r-Fnt1-qWQS7_mmHI5jw,control,2020-09-10 15:53:28,2020-09-10 16:04:21,10.883333333333333,4.0,4.0,4.0,2.0,,,,,,False,39,female,bachelors
+BUoAXX6AcppIfwqn6ooehQ,greedy,2020-09-10 15:54:56,2020-09-10 16:05:57,11.016666666666667,4.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,46,male,highschool
+4rqOCG0RKXayyrLxm691UA,greedy,2020-09-10 15:56:27,2020-09-10 16:09:45,13.3,5.0,4.0,5.0,2.0,5.0,4.0,5.0,5.0,it is very interesting,False,35,female,masters
+1XKUPtNbjKqOPNw7YmeUAA,greedy,2020-09-10 15:56:35,2020-09-10 16:08:16,11.683333333333334,3.0,4.0,3.0,2.0,3.0,4.0,3.0,5.0,,False,30,female,bachelors
+_hA9RSZ7OTFvgTyyuBVd7w,greedy,2020-09-10 15:57:00,2020-09-10 16:10:35,13.583333333333334,4.0,4.0,4.0,2.0,2.0,4.0,4.0,5.0,,False,34,male,bachelors
+5ECfx4KIAg6Yzyjhr4WnWg,control,2020-09-10 15:58:39,2020-09-10 16:10:49,12.166666666666666,4.0,4.0,4.0,2.0,,,,,,False,36,male,bachelors
+uq51tok4glK6YATXynq5EQ,control,2020-09-10 15:59:13,2020-09-10 16:10:37,11.4,4.0,5.0,5.0,2.0,,,,,It was kind of fun to mess with this tool,False,44,male,associate
+ZIRBQFPgBo9Lt_kHHC3MiA,control,2020-09-10 15:59:52,2020-09-10 16:10:22,10.5,3.0,4.0,4.0,2.0,,,,,,False,32,male,bachelors
+T2jkw-sDvoBLWJWDJ7zJTw,control,2020-09-10 16:01:32,2020-09-10 16:16:12,14.666666666666666,1.0,5.0,5.0,2.0,,,,,"The system was quite simple to use. I wouldn't want to have to do something like this all the time, but I imagine an actual annalist would enjoy it immensely. ",False,33,male,highschool
+9gpKpL2nWUcfz8mxAh0Xzw,control,2020-09-10 16:02:13,2020-09-10 16:12:48,10.583333333333334,4.0,4.0,4.0,2.0,,,,,,False,29,male,highschool
+UzXgncdrALjAjrxyveyLrA,greedy,2020-09-10 16:02:42,2020-09-10 16:13:44,11.033333333333333,3.0,4.0,4.0,2.0,2.0,2.0,4.0,5.0,None. Thank you. ,False,31,male,highschool
+4ffSoA9uBjbb6IiECmA6bA,control,2020-09-10 16:02:50,2020-09-10 16:13:16,10.433333333333334,4.0,5.0,5.0,2.0,,,,,,False,26,male,bachelors
+zuHD08T_ba4T2Gjp96aXhA,control,2020-09-10 16:03:21,2020-09-10 16:13:50,10.483333333333333,2.0,4.0,4.0,2.0,,,,,,False,36,male,bachelors
+m35vlecXWMm32D157_1SFw,greedy,2020-09-10 16:03:45,2020-09-10 16:15:50,12.083333333333334,2.0,4.0,4.0,2.0,2.0,2.0,5.0,5.0,,False,43,female,highschool
+Nq4mKs5hJ8Dc063VT1f3qg,control,2020-09-10 16:03:56,2020-09-10 16:15:11,11.25,3.0,4.0,4.0,2.0,,,,,,False,30,male,highschool
+MmnvXyPd-cyyKRhtUwKqhQ,control,2020-09-10 16:04:51,2020-09-10 16:17:17,12.433333333333334,1.0,1.0,2.0,2.0,,,,,,False,34,male,associate
+JjcI7g84OpS3dppwczTegw,control,2020-09-10 16:05:55,2020-09-10 16:15:59,10.066666666666666,2.0,4.0,5.0,2.0,,,,,"I really wish that the system was more responsive when I hovered over objects. If it could open and close the windows faster and have a hotkey to add to a bookmark, I could have moved much faster through the task. ",False,38,male,bachelors
+mJPpcH_KAPivl65Hmq_R1Q,greedy,2020-09-10 16:07:14,2020-09-10 16:21:22,14.133333333333333,3.0,4.0,4.0,2.0,2.0,1.0,3.0,5.0,"Trying to select a certain node out of a grouping was a little harder than I expected, but wasn't that big of a deal.",False,30,male,highschool
+3BgluksNw7LMIzSlCIQ03A,control,2020-09-10 16:10:10,2020-09-10 16:21:42,11.533333333333333,4.0,4.0,5.0,2.0,,,,,,False,34,male,bachelors
+w3wvq5o6qqajfpLRsKR_-w,control,2020-09-10 16:14:25,2020-09-10 16:25:45,11.333333333333334,5.0,4.0,4.0,2.0,,,,,,False,30,male,highschool
+AT2Ml2hfcNEsk7sZy_QHqw,control,2020-09-10 16:16:56,2020-09-10 16:18:25,1.4833333333333334,5.0,2.0,5.0,2.0,,,,,,False,53,female,masters
+sy8HjGfNzVj1cjblJSY22Q,control,2020-09-10 16:20:40,2020-09-10 16:32:14,11.566666666666666,4.0,4.0,4.0,2.0,,,,,,False,33,male,highschool
+VhgZ5EbLfzE22Iw2tVfE9A,greedy,2020-09-10 16:21:23,2020-09-10 16:32:55,11.533333333333333,5.0,5.0,4.0,2.0,1.0,1.0,4.0,5.0,It was interesting,False,40,male,masters
+y8og7vrDFCRp4730ewy5og,control,2020-09-10 16:21:48,2020-09-10 16:32:37,10.816666666666666,4.0,4.0,2.0,2.0,,,,,,False,48,female,bachelors
+pSEODcY6AnYvn02J9GGdcg,control,2020-09-10 16:24:03,2020-09-10 16:36:04,12.016666666666667,3.0,5.0,4.0,2.0,,,,,,False,39,male,highschool
+KC0H25pMHmZWuX8C6Sx-_g,greedy,2020-09-10 16:24:51,2020-09-10 16:34:58,10.116666666666667,4.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,,False,27,female,bachelors
+EV9n2qVr2U2ES5bI-Cdyhg,greedy,2020-09-10 16:25:43,2020-09-10 16:39:35,13.866666666666667,4.0,4.0,4.0,2.0,1.0,1.0,5.0,5.0,,False,24,female,doctorate
+U7Pma3fUpC72WNzsPyaY7Q,control,2020-09-10 16:26:46,2020-09-10 16:37:14,10.466666666666667,2.0,4.0,4.0,2.0,,,,,,False,27,male,highschool
+m93gPa6QBwovlafBAy7edQ,greedy,2020-09-10 16:27:14,2020-09-10 16:37:34,10.333333333333334,3.0,4.0,5.0,2.0,3.0,2.0,3.0,5.0,I had to review the instructions twice.  I found it pretty easy to use the system once I understood exactly what I was doing.  Most of the time people get sick from being around other people.  It was easy to find clusters of sick people once you knew where a single sick person could be found.,False,37,male,bachelors
+HrEpGdg2fgOR7zYhlElElw,control,2020-09-10 16:28:10,2020-09-10 16:38:46,10.6,3.0,4.0,4.0,2.0,,,,,,False,40,female,masters
+ykgZOJHZlLka4fBLn89ZGg,control,2020-09-10 16:28:18,2020-09-10 16:38:25,10.116666666666667,4.0,4.0,4.0,2.0,,,,,,False,20,male,highschool
+QVknIlaxajN5eM1CrZB-JA,control,2020-09-10 16:28:29,2020-09-10 16:42:03,13.566666666666666,4.0,4.0,4.0,2.0,,,,,"I had a sort of glitch - when I would hover over a dot, the text box would show up for a split second then the screen would shift slightly and it would be gone.  It made it impossible to read all of the text or bookmark them.  ",False,44,female,associate
+aDbzRAWuqzHLqD8l7uEwpg,control,2020-09-10 16:29:24,2020-09-10 16:39:57,10.55,2.0,1.0,1.0,2.0,,,,,,False,28,male,masters
+jDiIqd5LZb87Inn7328GMg,greedy,2020-09-10 16:29:35,2020-09-10 16:40:25,10.833333333333334,3.0,5.0,5.0,2.0,1.0,1.0,4.0,5.0,,False,35,male,bachelors
+oPycB65p8Uap3bmy1yGo0A,greedy,2020-09-10 16:30:10,2020-09-10 16:42:21,12.183333333333334,4.0,5.0,5.0,2.0,1.0,1.0,4.0,5.0,,False,39,female,associate
+MLO9Pl5OPHDvCVW3LuO1sg,greedy,2020-09-10 16:31:55,2020-09-10 16:43:17,11.366666666666667,2.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,,False,30,male,highschool
+Xi8Tbn4gbexPQpZa5VGkUw,control,2020-09-10 16:32:13,2020-09-10 16:43:33,11.333333333333334,4.0,5.0,5.0,2.0,,,,,No additional comments.,False,59,female,highschool
+riPuXirdQKONUOzAK2ZVPQ,control,2020-09-10 16:39:10,2020-09-10 16:53:35,14.416666666666666,2.0,2.0,3.0,2.0,,,,,It took so long to click on each point because of how small they were.  I couldn't figure out how to zoom in on the map. Can you include some practice trials if you post this experiment again?  I think it would really help to identify them more quickly.,False,49,female,bachelors
+v2U_6Tu1C-lTvQJR9wHy2Q,greedy,2020-09-10 16:40:14,2020-09-10 16:50:53,10.65,5.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,25,male,highschool
+ZZxf0JnuVuacQmLQPThEBg,greedy,2020-09-10 16:40:57,2020-09-10 16:54:29,13.533333333333333,4.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,,False,43,female,bachelors
+_VBPpE2K2iPmIupvUdU-zg,greedy,2020-09-10 16:41:35,2020-09-10 16:53:36,12.016666666666667,4.0,4.0,4.0,2.0,1.0,2.0,4.0,5.0,"Seemed easy to use, really.",False,30,male,bachelors
+JYYB5x6oqkd0ZvWMJEVlhg,greedy,2020-09-10 16:43:50,2020-09-10 16:56:24,12.566666666666666,4.0,5.0,5.0,2.0,2.0,2.0,4.0,5.0,I thought the experiment was interesting and I had no technical problems everything worked well.,False,31,female,bachelors
+6FdkeNiQYrM_ol2yVmmxYA,control,2020-09-10 16:44:16,2020-09-10 16:59:24,15.133333333333333,4.0,4.0,4.0,2.0,,,,,,False,28,female,bachelors
+GXaCM667o1nnMLifJ7MMMw,control,2020-09-10 16:44:26,2020-09-10 16:57:59,13.55,3.0,4.0,4.0,2.0,,,,,Thank you for the opportunity and bonus potential. I hope I did well.,False,29,male,highschool
+-kwivBWYQno0uVHMp4FPLA,control,2020-09-10 16:44:55,2020-09-10 16:56:19,11.4,2.0,1.0,2.0,2.0,,,,,,False,46,female,associate
+xMyJyQ1GbKEJTsQIggEuGA,greedy,2020-09-10 16:45:06,2020-09-10 16:53:53,8.783333333333333,4.0,4.0,5.0,2.0,2.0,3.0,4.0,5.0,,False,27,male,bachelors
+33ZLRYakyAgh7h2iFn1NOw,control,2020-09-10 16:45:28,2020-09-10 16:48:27,2.9833333333333334,4.0,3.0,5.0,2.0,,,,,Good,False,30,male,bachelors
+OsR8tpHbiZDTgN_Fni1xvA,control,2020-09-10 16:47:26,2020-09-10 16:59:02,11.6,1.0,3.0,3.0,2.0,,,,,,False,44,female,bachelors
+wSZ7_Au-lq0AvLyYHckErA,control,2020-09-10 16:47:42,2020-09-10 16:58:22,10.666666666666666,4.0,5.0,5.0,2.0,,,,,,False,31,female,bachelors
+FyySgtJHe3bgGN1nAvmRlA,control,2020-09-10 16:47:53,2020-09-10 17:00:10,12.283333333333333,3.0,4.0,4.0,2.0,,,,,stay safe...,False,54,male,highschool
+sIUlHrVUba449u2GUMASHA,control,2020-09-10 16:49:18,2020-09-10 17:00:04,10.766666666666667,2.0,4.0,4.0,2.0,,,,,,False,32,female,bachelors
+LMM61OcS7fIJKjpp8PLRwA,control,2020-09-10 16:50:18,2020-09-10 17:00:41,10.383333333333333,3.0,4.0,4.0,2.0,,,,,,False,31,male,associate
+twF3ibAy0Lt1-rqJShli2w,control,2020-09-10 16:51:39,2020-09-10 17:02:48,11.15,2.0,4.0,4.0,2.0,,,,,,False,33,female,bachelors
+j59cGql1GzmBLGPE0kct3g,greedy,2020-09-10 16:53:15,2020-09-10 17:04:14,10.983333333333333,3.0,5.0,5.0,2.0,2.0,1.0,4.0,5.0,,False,44,male,doctorate
+x2YPwqGiPma1PtdaR0pcsA,control,2020-09-10 17:00:06,2020-09-10 17:24:49,24.716666666666665,4.0,5.0,5.0,2.0,,,,,,False,31,male,bachelors
+QNBeokFcfTDtlTtd_pt2fw,greedy,2020-09-10 17:00:12,2020-09-10 17:09:15,9.05,4.0,5.0,4.0,2.0,1.0,2.0,4.0,5.0,,False,35,female,bachelors
+F0Wnn8mBVBKSysvLxzhJew,control,2020-09-10 17:01:31,2020-09-10 17:37:15,35.733333333333334,4.0,5.0,5.0,2.0,,,,,None Just i hope i did it right.,False,24,male,highschool
+Vh_chN4sPjP99A8mc8q3tw,greedy,2020-09-10 17:03:50,2020-09-10 17:14:24,10.566666666666666,2.0,4.0,4.0,2.0,3.0,1.0,4.0,5.0,,False,35,withdraw,highschool
+4moLYRc59xNJAPagNVcy5A,greedy,2020-09-10 17:04:27,2020-09-10 17:16:44,12.283333333333333,4.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,"The windows kept disappearing randomly when I was trying to click on them, I would read them and about half the time they would just disappear before I could add a bookmark. ",False,34,female,bachelors
+B7ZaxlNNz11L0f6MLaOFeg,greedy,2020-09-10 17:05:11,2020-09-10 17:07:12,2.0166666666666666,5.0,5.0,3.0,2.0,1.0,2.0,5.0,5.0,,False,41,female,bachelors
+FZl65iI0EoU-NFlIzal82Q,control,2020-09-10 17:17:53,2020-09-10 17:30:02,12.15,1.0,3.0,5.0,2.0,,,,,"I kept having issues with highlighting something and when I went to bookmark it, the box would disappear before I could click it. That was annoying and kept me away from the large cluster because it happened more there. It didn't happen often but it happened enough to get in the way which is why I wouldn't want to use it frequently. Otherwise, the system was fine.",False,38,male,highschool
+tYCAwT3T7WtrpGuuLWyeyw,control,2020-09-10 17:24:56,2020-09-10 17:39:51,14.916666666666666,2.0,1.0,2.0,2.0,,,,,,False,47,female,associate
+vORWFrZw9Qf5YJnFImjhMg,control,2020-09-10 17:26:16,2020-09-10 17:37:31,11.25,3.0,5.0,5.0,2.0,,,,,,False,32,female,associate
+kMeuem7X1gWTQAnPXzyXdw,greedy,2020-09-10 17:33:37,2020-09-10 17:44:53,11.266666666666667,4.0,5.0,5.0,2.0,1.0,1.0,5.0,5.0,,False,31,male,bachelors
+5bKBzTuSK8-yD97HTS1dZw,control,2020-09-10 17:46:31,2020-09-10 17:57:37,11.1,4.0,4.0,5.0,2.0,,,,,thank  you,False,35,male,bachelors
+W_ll1tgFo2bkBT13i2jSIg,greedy,2020-09-10 17:46:33,2020-09-10 17:59:40,13.116666666666667,5.0,4.0,5.0,2.0,1.0,1.0,5.0,5.0,"In the center of the city where the dots were highly concentrated it was somewhat hard to hover over one specific dot. Otherwise, this was fun, thank you!",False,18,female,highschool
+dHVuS9KdxqjsZ_rqnQS1jw,greedy,2020-09-10 17:49:24,2020-09-10 18:00:21,10.95,4.0,4.0,4.0,2.0,1.0,1.0,4.0,5.0,,False,37,male,bachelors
+TNh4yciycOwATX7OZcMqAw,control,2020-09-10 17:50:11,2020-09-10 18:01:58,11.783333333333333,4.0,4.0,5.0,2.0,,,,,,False,33,male,highschool
+xFutzVnyUPJa1FdcHDBuOA,control,2020-09-10 17:57:21,2020-09-10 18:10:02,12.683333333333334,5.0,4.0,4.0,2.0,,,,,"I just wanted to mention that I found this study fascinating. I actually was disappointed when the time was up on the task!
+Thank you for the opportunity!",False,26,female,highschool
+5GV8_vl7CrnU1n_e3BYAyA,control,2020-09-10 18:08:52,2020-09-10 18:23:38,14.766666666666667,4.0,4.0,4.0,2.0,,,,,,False,38,male,bachelors
+RZKgmh54IrTo2bVMpg0L9w,control,2020-09-10 18:31:34,2020-09-10 18:42:15,10.683333333333334,3.0,3.0,3.0,2.0,,,,,,False,34,male,highschool
+CxFmhMS5PYYF-f2YdntYMg,control,2020-09-10 18:42:48,2020-09-10 18:54:46,11.966666666666667,2.0,3.0,2.0,2.0,,,,,,False,34,male,highschool
+Z2yONYSDzxqhG_m_AZAnog,control,2020-09-10 18:56:20,2020-09-10 19:16:31,20.183333333333334,4.0,4.0,5.0,2.0,,,,,,False,26,male,bachelors
