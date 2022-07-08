@@ -7,7 +7,6 @@ This repository contains the collected user study data and analysis script for o
 Recent advances in visual analytics have enabled us to learn from user interactions and uncover analytic goals.
 These innovations set the foundation for actively guiding users during data exploration. 
 Providing such guidance will become more critical as datasets grow in size and complexity, precluding exhaustive investigation.
-%In a step towards creating and evaluating systems that guide users during exploration, w
 Meanwhile, the machine learning community also struggles with datasets growing in size and complexity, precluding exhaustive labeling.
 Active learning is a broad family of algorithms developed for actively guiding models during training.
 We will consider the intersection of these analogous research thrusts.
